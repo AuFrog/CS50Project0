@@ -3,19 +3,17 @@
 Web Programming with Python and JavaScript
 
 
-There are four .html pages. 
+###There are four .html pages. 
 
-1. index.html(the home page)
+####1. index.html(the home page)
+A bootstrap Alerts. <br>
+A bootstrap Navbar, that can get to other pages.<br>
 
-A bootstrap Alerts
+3 bootstrap Grid model (1 row and 3 columns).<br>
 
-A bootstrap Navbar, that can get to other pages.
+Each column has one image and one link, the hyperlinks can get to other pages.<br>
 
-3 bootstrap Grid model (1 row and 3 columns)
-
-Each column has one image and one link, the hyperlinks can get to other pages.
-
-A footer with 2 images and refenence.  
+A footer with 2 images and refenence.  <br>
 
 
 2. MyVillagers.html
