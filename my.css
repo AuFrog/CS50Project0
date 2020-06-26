@@ -15,6 +15,10 @@
   body {
     font-size: 18px;
   }
+
+  .respone-img {
+    height: 300px;
+  }
 }
 a {
   font-weight: bold;
@@ -88,10 +92,15 @@ body {
   transform: translate(0, 20px);
   margin-top: 10px;
   margin-left: 10px;
+  text-align: left;
 }
 
 .content-STF > div {
   padding: 10px;
+}
+
+ul {
+  text-align: left;
 }
 
 .dis-Inline {
