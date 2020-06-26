@@ -9,7 +9,7 @@ There are four .html pages.
 A bootstrap Alerts
 A bootstrap Navbar, that can get to other pages.
 3 bootstrap Grid model (1 row and 3 columns)
-Each column has one image (<img>)and one link(<a>), the hyperlinks can get to other pages.
+Each column has one image and one link, the hyperlinks can get to other pages.
 A footer with 2 images and refenence.  
 
 2. MyVillagers.html
@@ -19,13 +19,13 @@ A footer with 2 images and  references.
 
 3.test.html
 A bootstrap Navbar, that can get to other pages.
-2 <div>, each one image and a <span>
-Each <span> has a list and 2 title (h5 and h6).
+2 div, each one image and a span
+Each span has a list and 2 title (h5 and h6).
 A footer with 2 images and  references. 
 
 4.SomethingFunny.html
 A bootstrap Navbar, that can get to other pages.
-Several <div>. Each <div> contains text or one image.
+Several div. Each div contains text or one image.
 A footer with 2 images and  references. 
 
 
