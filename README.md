@@ -3,130 +3,111 @@
 Web Programming with Python and JavaScript
 
 
-###There are four .html pages. 
+### There are four .html pages. 
 
-####1. index.html(the home page)
+#### 1. index.html(the home page)
 A bootstrap Alerts. <br>
 A bootstrap Navbar, that can get to other pages.<br>
-
 3 bootstrap Grid model (1 row and 3 columns).<br>
-
 Each column has one image and one link, the hyperlinks can get to other pages.<br>
-
 A footer with 2 images and refenence.  <br>
+<br>
 
+#### 2. MyVillagers.html
+A bootstrap Navbar, that can get to other pages.<br>
+A table recording information about my villagers. There 11 people.<br>
+A footer with 2 images and  references.  <br>
+<br>
 
-2. MyVillagers.html
+#### 3.test.html
 
-A bootstrap Navbar, that can get to other pages.
+A bootstrap Navbar, that can get to other pages.<br>
+2 div, each one image and a span.<br>
+Each span has a list and 2 title (h5 and h6).<br>
+A footer with 2 images and  references. <br>
+<br>
 
-A table recording information about my villagers. There 11 people.
-
-A footer with 2 images and  references.  
-
-
-3.test.html
-
-A bootstrap Navbar, that can get to other pages.
-
-2 div, each one image and a span
-
-Each span has a list and 2 title (h5 and h6).
-
-A footer with 2 images and  references. 
-
-
-4.SomethingFunny.html
-
-A bootstrap Navbar, that can get to other pages.
-
-Several div. Each div contains text or one image.
-
-A footer with 2 images and  references. 
+#### 4.SomethingFunny.html
+A bootstrap Navbar, that can get to other pages.<br>
+Several div. Each div contains text or one image.<br>
+A footer with 2 images and  references. <br>
+<br><br><br>
 
 
 
+### There are one .scss file, one .css file and .map file
+#### 1. my.css and my.css.map.
+They are complied form my.scss.<br>
+<br>
 
-There are one .scss file, one .css file and .map file
+#### 2. my.scss. This including:
+2 @media query for screen width changed<br>
+2 SCSS nesting<br>
+1 SCSS inheritance<br>
+1 SCSS variable<br>
+CSS selectors I have uesd: <br>
 
-1. my.css and my.css.map.They are complied form my.scss.
-
-2. my.scss. This including:
-
-2 @media query for screen width changed.
-
-2 SCSS nesting
-
-1 SCSS inheritance
-
-1 SCSS variable
-
-CSS selectors I have uesd:  
-
-.class
-
-#id 
-
-element
-
-:hover
-element>element
-:nth-child(n)
+  * .class
+  * #id 
+  * element
+  * :hover
+  * element>element
+  * :nth-child(n)
 
 
-CSS properties I have used		
+  * CSS properties I have used		
 
-font-size
+  * font-size
 
-background-color
+  * background-color
 
-border-radius
+  * border-radius
 
-border-color
+  * border-color
 
-border-style
+  * border-style
 
-border-width
+  * border-width
 
-color
+  * color
 
-display
+  * display
 
-flex-direction
+  * flex-direction
 
-flex
+  * flex
 
-grid-row-gap
+  * grid-row-gap
 
-height
+  * height
 
-transform
+  * transform
 
-line-height
+  * line-height
 
-min-height
+  * min-height
 
-margin
+  * margin
 
-padding
+  * padding
 
-text-decoration
+  * text-decoration
 
-text-align
+  * text-align
 
-vertical-align
+  * vertical-align
 
-width
+  * width
+
+<br><br>
 
 
+#### I have used Bootstrap and Jquery in my project.
 
+  * bootstrap.min.css
 
-I have used Bootstrap and Jquery in my project.
+  * bootstrap.bundle.min.js
 
-bootstrap.min.css
-
-bootstrap.bundle.min.js
-
-jquery-3.5.1.slim.min.js
+  * jquery-3.5.1.slim.min.js
 
 
