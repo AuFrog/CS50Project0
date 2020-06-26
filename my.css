@@ -1,4 +1,4 @@
-@media (max-width: 499px) {
+@media (max-width: 729px) {
   body {
     font-size: 16px;
   }
@@ -6,8 +6,12 @@
   .respone-img {
     height: 200px;
   }
+
+  #Dis-line {
+    display: none;
+  }
 }
-@media (min-width: 500px) {
+@media (min-width: 730px) {
   body {
     font-size: 18px;
   }
@@ -33,7 +37,7 @@ body {
   flex-direction: column;
 }
 
-.card-round {
+.card-round, .card-yellow, .card-blue, .card-green {
   margin: 20px;
   padding: 20px;
   border-radius: 20px;
@@ -43,7 +47,7 @@ body {
   display: grid;
   grid-row-gap: 20px;
 }
-.card-round a {
+.card-round a, .card-yellow a, .card-blue a, .card-green a {
   height: 40px;
   border-radius: 20px;
   background-color: #7a6a4d;
@@ -51,8 +55,20 @@ body {
   padding: 5px 5px 5px 5px;
   color: #f3f0eb;
 }
-.card-round img {
+.card-round img, .card-yellow img, .card-blue img, .card-green img {
   height: 200px;
+}
+
+.card-green {
+  border-color: rgba(0, 129, 96, 0.3);
+}
+
+.card-blue {
+  border-color: rgba(104, 161, 215, 0.6);
+}
+
+.card-yellow {
+  border-color: rgba(241, 226, 111, 0.8);
 }
 
 .content {
@@ -76,18 +92,6 @@ body {
 
 .content-STF > div {
   padding: 10px;
-}
-
-#colour-green {
-  border-color: rgba(0, 129, 96, 0.3);
-}
-
-#colour-blue {
-  border-color: rgba(104, 161, 215, 0.6);
-}
-
-#colour-yellow {
-  border-color: rgba(241, 226, 111, 0.8);
 }
 
 .dis-Inline {
@@ -118,7 +122,7 @@ hr {
   margin-bottom: 30px;
 }
 
-header, .navbar {
+header, nav {
   background-image: url(https://www.animal-crossing.com/new-horizons/assets/img/global/patterns/pattern-confetti.jpg);
 }
 
@@ -143,7 +147,8 @@ th, td {
   text-align: center;
   color: #6b5c43;
 }
-th img, td img {
+
+td > img {
   width: 150px;
 }
 
