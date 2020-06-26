@@ -20,7 +20,7 @@ A footer with 2 images and  references.
 3.test.html
 A bootstrap Navbar, that can get to other pages.
 2 <div>, each one image and a <span>
-Each <span> has a list and 2 title (<h5> & <h6>).
+Each <span> has a list and 2 title (<h5> and <h6>).
 A footer with 2 images and  references. 
 
 4.SomethingFunny.html
